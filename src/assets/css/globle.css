@@ -1,0 +1,26 @@
+html,
+body,
+#app {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: rgba(255,255,255,1);
+    height: 54px;
+    margin-bottom: 21px;
+}
+.el-breadcrumb{
+    height: 54px;
+    display: flex;
+    margin-left: 30px;
+    align-items: center;
+}
+.el-card{
+    margin-left: 21px;
+    margin-right: 24px;
+    margin-bottom: 51px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15) !important;
+    max-height: 804px;
+}
